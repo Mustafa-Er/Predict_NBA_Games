@@ -1,6 +1,8 @@
 # Predict_NBA_Games
 
 📂 Project Structure
+
+
 .
 ├── data-nbagames/                    # Scraped raw game data (2010–Oct 2024)
 ├── NBA_Data_Science_Works.ipynb     # Main analysis, modeling, and feature engineering notebook
