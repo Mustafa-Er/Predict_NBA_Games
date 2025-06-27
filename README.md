@@ -1,8 +1,10 @@
 # Predict_NBA_Games
 
-📂 Project Structure
 
 
+### 📁 Project Directory Structure
+
+```bash
 .
 ├── data-nbagames/                    # Scraped raw game data (2010–Oct 2024)
 ├── NBA_Data_Science_Works.ipynb     # Main analysis, modeling, and feature engineering notebook
@@ -10,6 +12,8 @@
 ├── Scraping_NBA_Games.py            # Web scraper using BeautifulSoup
 ├── nba_games_V6_081123_02_04.csv    # Processed game-level features
 ├── nba_players_V6_081123_02_04.csv  # Processed player-level features
+```
+
 
 
 
